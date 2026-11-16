@@ -1,0 +1,9 @@
+{
+  "name": "PHYSLAB AI — Физикалық зертхана",
+  "short_name": "PHYSLAB AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071624",
+  "theme_color": "#071624",
+  "description": "9-сынып физикасына арналған виртуалды зертхана"
+}
